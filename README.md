@@ -9,4 +9,4 @@ the beep pinao is a c++ programme
 
 you can use the keys to let your cumputer to make sound by using the beep
 
-maybe that's harmful, who knows?
+maybe that's harmful to cpmputers, who knows?
